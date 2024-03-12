@@ -50,3 +50,8 @@ Model Used: 'gemini-pro-vision'
 1. **Upload an image:** Click the "Choose an image..." button and select a food image in JPG, JPEG, or PNG format.
 2. **Enter an optional prompt:** If desired, provide additional context in the "Input Prompt" field.
 3. **Click "Total calories" button:** The app will process the image, communicate with the Gemini Pro Vision API, and display the estimated total calories and a breakdown of individual food items with their calorie counts.
+
+## Preview
+![alt text](https://github.com/varun7778/Calorie-Counter-LLM/blob/9281c4e8a29f59a403d3303a1c4958318bbb5f90/img/1.png)
+
+![alt text](https://github.com/varun7778/Calorie-Counter-LLM/blob/9281c4e8a29f59a403d3303a1c4958318bbb5f90/img/2.png)
